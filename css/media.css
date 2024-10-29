@@ -422,7 +422,7 @@ h5 {
 }
 
 .project-box:hover .project-mask .project-caption {
-  bottom: 30px;
+  bottom: 10px;
   opacity: 1;
 }
 
