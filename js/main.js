@@ -9,7 +9,7 @@ function hidePreloader() {
 }
 
 window.addEventListener("load", function () {
-  setTimeout(hidePreloader, 1700);
+  setTimeout(hidePreloader, 900);
 });
 
 //Hamburger menu
