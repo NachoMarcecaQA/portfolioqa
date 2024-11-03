@@ -1,4 +1,4 @@
-const nav = document.querySelector("#nav");
+ const nav = document.querySelector("#nav");
 const navBtn = document.querySelector("#nav-btn");
 const navBtnImg = document.querySelector("#nav-btn-img");
 
@@ -15,7 +15,7 @@ navBtn.onclick = () => {
   }
 };
 
-//Sticky header & goToTop button
+//Sticky header
 window.addEventListener("scroll", function () {
   const header = document.querySelector("#header");
   const hero = document.querySelector("#home");
