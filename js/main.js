@@ -2,12 +2,6 @@ const nav = document.querySelector("#nav");
 const navBtn = document.querySelector("#nav-btn");
 const navBtnImg = document.querySelector("#nav-btn-img");
 
-//Preloader
-function hidePreloader() {
-  const preloader = document.getElementById("preloader");
-  preloader.style.display = "none";
-}
-
 window.addEventListener("load", function () {
   setTimeout(hidePreloader, 900);
 });
