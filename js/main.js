@@ -23,10 +23,8 @@ window.addEventListener("scroll", function () {
 
   if (window.scrollY > triggerHeight) {
     header.classList.add("header-sticky");
-    goToTop.classList.add("reveal");
   } else {
     header.classList.remove("header-sticky");
-    goToTop.classList.remove("reveal");
   }
 });
 
