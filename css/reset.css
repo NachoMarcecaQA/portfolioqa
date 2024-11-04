@@ -3,8 +3,8 @@
 
 :root {
   --primary-bg-color: #f7fbfd;
-  --primary-accent: #0c1618;
-  --secondary-accent: #6f1d1b;
+  --primary-accent: #4f0797; 
+  --secondary-accent: #079949;
 
   --main-text-color: #0c1618;
   --gray-text-color: #565a5b;
@@ -44,6 +44,14 @@ body {
   font-size: 4.4rem;
   font-weight: 600;
   text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
 }
 
 .btn {
@@ -388,7 +396,7 @@ h5 {
   color: var(--gray-text-color);
 }
 
-/* Works */
+/* Projects */
 .projects {
   padding: 10rem 0;
   background-color: var(--primary-bg-color);
@@ -482,6 +490,7 @@ h5 {
 
 /* Contact */
 .contact {
+  background-color: var(--primary-bg-color);
   padding: 10rem 0;
   text-align: center;
 }
