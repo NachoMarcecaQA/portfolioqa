@@ -1,20 +1,3 @@
- const nav = document.querySelector("#nav");
-const navBtn = document.querySelector("#nav-btn");
-const navBtnImg = document.querySelector("#nav-btn-img");
-
-window.addEventListener("load", function () {
-  setTimeout(hidePreloader, 900);
-});
-
-//Hamburger menu
-navBtn.onclick = () => {
-  if (nav.classList.toggle("open")) {
-    navBtnImg.src = "img/icons/close.svg";
-  } else {
-    navBtnImg.src = "img/icons/open.svg";
-  }
-};
-
 //Sticky header
 window.addEventListener("scroll", function () {
   const header = document.querySelector("#header");
