@@ -1,6 +1,6 @@
 # PORTFOLIO
 This is my QA portfolio.
-[Reyes Cuesta PORTFOLIO](https://github.com/NachoMarcecaQA/portfolioqa/)
+[Nacho Marceca PORTFOLIO](https://github.com/NachoMarcecaQA/portfolioqa/)
 
 ## BUILT WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,9 +59,9 @@ Release will be consider ready when:
 - Regression tests have been successfully completed after each sprint, with no major issues found.
 
 ## 11. Deliverables
-- **[Functional Test Results](testresultsreport.pdf)**: A document summarizing the execution and results of all functional test cases.
-- **[BUG Report](errorreport.pdf)**: Detailed documentation of any defects found during testing, including severity, steps to reproduce, and resolution.
-- **[Regression Test Execution Report](regressiontestreport.pdf)**: A report outlining the results of regression tests executed at the end of each sprint.
+- **[Functional Test Results]([testresultsreport.pdf](https://github.com/NachoMarcecaQA/portfolioqa/blob/main/testReports/test_result_report.pdf))**: A document summarizing the execution and results of all functional test cases.
+- **[BUG Report]([errorreport.pdf](https://github.com/NachoMarcecaQA/portfolioqa/blob/main/testReports/error_report.pdf))**: Detailed documentation of any defects found during testing, including severity, steps to reproduce, and resolution.
+- **[Regression Test Execution Report]([regressiontestreport.pdf](https://github.com/NachoMarcecaQA/portfolioqa/blob/main/testReports/regression_test_report.pdf))**: A report outlining the results of regression tests executed at the end of each sprint.
 
 ## AUTHOR
 Ignacio Eleazar Marceca, QA Engineer
