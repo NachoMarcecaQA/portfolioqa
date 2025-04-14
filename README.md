@@ -1,5 +1,5 @@
 # PORTFOLIO
-This is my QA portfolio.
+This is my QA portfolio. And it is also a Testing project, testing this portfolio :D
 [Nacho Marceca PORTFOLIO](https://github.com/NachoMarcecaQA/portfolioqa/)
 
 ## BUILT WITH
