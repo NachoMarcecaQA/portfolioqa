@@ -327,45 +327,6 @@ h5 {
   padding-right: 3rem;
 }
 
-.about-skills {
-  min-width: 45rem;
-  padding-left: 3rem;
-}
-
-.skill {
-  position: relative;
-  display: block;
-  width: 100%;
-  margin-bottom: 3rem;
-}
-
-.skill-title,
-.skill-percent {
-  display: inline-block;
-  font-size: 1.2rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1rem;
-}
-
-.skill-percent {
-  float: right;
-}
-
-.skillbar {
-  height: 0.4rem;
-  background-color: var(--secondary-accent);
-}
-
-.skillbar:before {
-  background: var(--gray-color);
-  content: "";
-  height: 0.4rem;
-  position: absolute;
-  width: 100%;
-  z-index: -1;
-}
-
 .about-download-btn {
   margin-top: 4rem;
 }
