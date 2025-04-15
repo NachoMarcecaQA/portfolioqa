@@ -15,3 +15,11 @@ window.addEventListener("scroll", function () {
 AOS.init({
   once: true,
 });
+
+//toogle menu
+const navBtn = document.getElementById("nav-btn");
+const navList = document.querySelector(".nav-list");
+
+navBtn.addEventListener("click", () => {
+  navList.classList.toggle("active");
+});
